@@ -1,0 +1,174 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A relation of the engagement of His Majesty's fleet with the enemies, on the 11th of August, 1673 as it has been represented by letters from the several squadrons.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58442</idno>
+            <idno type="STC">Wing R827</idno>
+            <idno type="STC">ESTC R21997</idno>
+            <idno type="EEBO-CITATION">12059026</idno>
+            <idno type="OCLC">ocm 12059026</idno>
+            <idno type="VID">53187</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58442)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53187)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 576:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A relation of the engagement of His Majesty's fleet with the enemies, on the 11th of August, 1673 as it has been represented by letters from the several squadrons.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Newcomb,</publisher>
+                  <pubPlace>[London] In the Savoy:</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Texel, Battle of the, 1673.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53187:1"/>
+            <!-- PDF PAGE 64 -->
+            <p>A RELATION Of the ENGAGEMENT OF His Majeſtys Fleet With the ENEMIES, On the 11<hi rend="sup">th</hi> of <hi>Auguſt,</hi> 1673. As it has been Repreſented by Letters from the ſeveral SQUADRONS.</p>
+            <p>Publiſhed by Authority.</p>
+            <p>In the <hi>SAVOY,</hi> Printed by <hi>Thomas Newcomb.</hi> M.DC.LXXIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:53187:2"/>
+            <!-- PDF PAGE 65 -->
+            <pb n="3" facs="tcp:53187:2"/>
+            <!-- PDF PAGE 65 -->
+            <head>A RELATION <hi>Of the Engagement of His Majeſty's Fleet with the Enemies, on the</hi> 11<hi rend="sup">th</hi> 
+               <hi>of</hi> Auguſt 1673. <hi>as has been Repre<g ref="char:EOLhyphen"/>ſented by Letters from the ſeveral Squa<g ref="char:EOLhyphen"/>drons.</hi>
+            </head>
+            <div type="part">
+               <head>The RELATION from the RED SQ<g ref="char:V">Ʋ</g>ADRON.</head>
+               <p>
+                  <seg rend="decorInit">O</seg>N the Tenth of <hi>Auguſt,</hi> in the Morning, his Highneſs Prince <hi>Rupert,</hi> lying with His Majeſties Fleet ſeven Leagues from the <hi>Texel,</hi> bearing E. and by S. of them, diſpatch<g ref="char:EOLhyphen"/>ed away the <hi>Papenburgh,</hi> a Dutch <hi>Eaſt-India</hi> Prize, under the care of Sir <hi>Charles Littleton,</hi> which had fallen that Morn<g ref="char:EOLhyphen"/>ing caſually into their Hands; about which time the Fleet Weighed, having the Wind at N. E. a gentle Gale, his
+<pb n="4" facs="tcp:53187:3"/>
+                  <!-- PDF PAGE 66 -->Highneſs being Advertiſed by his Scouts, That the Enemies Fleet, which had lain at Ankor four Leagues from <hi>Camper down,</hi> and ſeven Leagues S. S. E. from ours, were getting under Sayl; which obli<g ref="char:EOLhyphen"/>ged him to ſtand S. F. to get the W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd of them; About Two in the Af<g ref="char:EOLhyphen"/>ternoon, the Enemies Fleet was ſeen by Ours, ſtanding Northwards: of whom his Highneſs having got the Wind, about Four in the Afternoon ſtretched near the Headmoſt of them: then the Enemy Tacked, when their Van was a Breaſt on us, and made all the Sayl they poſsibly could. The Prince kept ſuch a Sayl, as our whole bleet might ac<g ref="char:EOLhyphen"/>company them; but the Day being near ſpent, his Highneſs thought it not fit to Engage them then, but kept under Sayl all night. On the Eleventh in the Morning at break of day, the Ene<g ref="char:EOLhyphen"/>mies Fleet was ſeen (being Ninety odd Sayl of Men of War) within two Leagues of Ours, bearing from the E. and by S. to the S. S. E. of us, the Wind at E. and by S. the <hi>Texel</hi> bore F. N. E. near five Leagues diſtance; Between Four and Five the Fleet Tack<g ref="char:EOLhyphen"/>ed,
+<pb n="5" facs="tcp:53187:3"/>
+                  <!-- PDF PAGE 66 -->and ſtood to the Northwards till Eight, then they Tacked again and ſtood to the Southward, the Enemy ſtill obſerving our Motion, and edg<g ref="char:EOLhyphen"/>ing towards us, untill half an hour after Eight, when they bore right down up<g ref="char:EOLhyphen"/>on us, <hi>Van Trump</hi> upon the Blew Squa<g ref="char:EOLhyphen"/>dron in the Rear, <hi>de Ruyter</hi> with the Main Body upon the Red, and <hi>Ban<g ref="char:EOLhyphen"/>kaert</hi> with the reſt upon the White; Between Nine and Ten of the Clock, there fell a great Shower of Rain, and very thick Weather, with which the Wind ſhrunk from the <hi>E.</hi> and by <hi>S.</hi> to the <hi>S.W.</hi> At eleven of the Clock the Weather cleared up, when we percei<g ref="char:EOLhyphen"/>ved the White Squadron had Tacked, and Weathered both Fleets; The Ene<g ref="char:EOLhyphen"/>my had a great Squadron to Weather of the Prince's and Sir <hi>John Harmans</hi> Diviſions, <hi>de Ruyter</hi> was right in the Princes Wake, and preſſed him very hard, two of their Vice-Admirals, and one of their Rear-Admirals, were within little more then Cannon ſhot to Leeward of him; Sir <hi>John Chichley</hi>'s Diviſion was to Leeward of him, and the Blew Squadron warmly Engaged
+<pb n="6" facs="tcp:53187:4"/>
+                  <!-- PDF PAGE 67 -->with <hi>Van Trump</hi> to Leeward of all: the Prince kept cloſe upon a Wind till twelve at noon, and then his High<g ref="char:EOLhyphen"/>neſs bore towards Sir <hi>John Chichley</hi> firſt, and afterwards to the Blew Squa<g ref="char:EOLhyphen"/>dron, where he found Sir <hi>Edward Spragge</hi>'s Ship, the <hi>Royal Prince,</hi> towing off without any of his Maſts ſtanding, but defended from the Ene<g ref="char:EOLhyphen"/>my, by the Earl of <hi>Oſſory</hi> in the <hi>St. Michael,</hi> and ſome other Ships of the ſame Squadron. At ſix in the eve<g ref="char:EOLhyphen"/>ning his Highneſs Engaged ſmartly again, till eight at night, when he got his Larboard Tacks on b<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ard, and ſtood <hi>N. N. W.</hi> with the Wind at S. W. at which time the Enemy Tack<g ref="char:EOLhyphen"/>ed, and ſtood to their own Coaſt. We have ſeveral of our Men of War Diſabled, but not one loſt; the <hi>Hen<g ref="char:EOLhyphen"/>rietta</hi> Yacht which attended the Earl of <hi>Oſſory,</hi> was ſunk by his ſide, but he ſa<g ref="char:EOLhyphen"/>ved the Captain and all the Men. Sir <hi>Edward Spragg</hi> Admiral of the Blew Squadron, changing his Ship, was un<g ref="char:EOLhyphen"/>fortunately Drowned, his Boat being ſunk under him by a Shot from the Enemy, Captain <hi>le Neve</hi> was alſo
+<pb n="7" facs="tcp:53187:4"/>
+                  <!-- PDF PAGE 67 -->Slain; Sir <hi>John Kempthorn,</hi> Vice-Admiral of the Blew, Captain <hi>Courtney,</hi> Captain <hi>Haward,</hi> Sir <hi>William Reeves,</hi> and Sir <hi>William Jennings</hi> were Woun<g ref="char:EOLhyphen"/>ded; Captain <hi>Stockman,</hi> and Captain <hi>Merryweather</hi> of the Duke of <hi>Buck<g ref="char:EOLhyphen"/>ingham</hi>'s Regiment, and Mr <hi>May,</hi> a Vo<g ref="char:EOLhyphen"/>lunteer, were alſo Slain, which were all the Hurt and Wounded of Note we yet hear of. We cannot certainly tell what the Enemies Loſs was, but two of their Great Ships of 70 and 60 Guns were both loſt in our ſight, the one ſunk by Sir <hi>John Kempthorne,</hi> the latter burnt by Captain <hi>Waſhbourn:</hi> It is likewiſe confidently ſaid, that four or five more were deſtroyed, and ſeveral others were ſeen to go off much diſabled. On the 12 our Fleet was refitting, and on the 13 in the morning, when this Account came away from them, they were under Sail to look after the Enemy, who were gotten out of fight the night before, ſtanding, as is ſup<g ref="char:EOLhyphen"/>poſed, towards their own Coaſt.</p>
+            </div>
+            <div type="part">
+               <pb n="8" facs="tcp:53187:5"/>
+               <!-- PDF PAGE 68 -->
+               <head>The RELATION from the White SQ<g ref="char:V">Ʋ</g>ADRON.</head>
+               <p>THe Wind being at <hi>S. E.</hi> and favourable to the Enemies, who had drawn themſelves up towards their own Coaſts, they diſpoſed their Squadrons to come upon each of ours, which they executed all at a time; <hi>Trump</hi> with his Squadron having Attacked the <hi>Blew, de Ruyter</hi> and his Vice-Admiral the <hi>Red,</hi> and <hi>Ban<g ref="char:EOLhyphen"/>kert</hi> the <hi>White,</hi> who had the Van, and the Wind at <hi>E.</hi> endeavouring to weather the Enemies, to which end the Marquis <hi>de Martel,</hi> Rere Admi<g ref="char:EOLhyphen"/>ral of the ſaid Squadron, with his Ship dalled the <hi>Royal Tereſe,</hi> Tacked upon the Enemy, but not being able to get the Wind, he remained very cloſe to them, conſtantly firing; ſome time af<g ref="char:EOLhyphen"/>ter, the Chevalier <hi>Fouruille,</hi> Commander of the <hi>Sanſpareil,</hi> being the ſecond Ship of the Van, Tacked alſo upon the Enemy, and was followed by the Sieurs <hi>Pauvettier</hi> and <hi>Louis Gabaret,</hi> Com<g ref="char:EOLhyphen"/>manding the <hi>Precieux</hi> and <hi>Aquillon,</hi> but they could not yet gain the Wind.</p>
+               <p>The Count <hi>d' Eſtrees<gap reason="illegible" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>,</hi> Vice Admiral of <hi>France,</hi> ſeeing that the Reer-Admirals Diviſion, who had the Van, could gain nothing upon the Enemy, reſolves to bear through them, in or<g ref="char:EOLhyphen"/>der to getting the Weather-gage, and going to the Princes aſſiſtance; and in effect he broke through the Enemies Line, between 11 and 12 at noon, and weathered all their Ships except
+<pb n="9" facs="tcp:53187:5"/>
+                  <!-- PDF PAGE 68 -->
+                  <hi>Bankert,</hi> who paſſed to Windward of him with<g ref="char:EOLhyphen"/>in Piſtol ſhot, and the reſt to Leeward within the ſame diſtance; the ſaid <hi>Bankerts</hi> Fireſhips did all they could to burn the Comte <hi>d' Eſtrees</hi> Ship, called <hi>La Reine,</hi> and one of their Fireſhips burnt out under his Boltſprit, and another he ſunk with his ſhot, and after having ſtood the Enemies Fire on both ſides, and he himſelf fi<g ref="char:EOLhyphen"/>red without intermiſsion, both his great and ſmall Shot, having loſt 30 Men, and his Ship much torn, he got the Wind, whilſt the Sieurs <hi>de Breuilly, de Gabaret,</hi> and ſeveral other Captains, did all they could to come up to ſuch of the Enemies Ships as were a head of them; but they would not ſtay for them; Admiral <hi>Bankert</hi> with his Diviſion, bore upon the Sieurs <hi>d' Eſtival,</hi> Chevalier <hi>Dailly,</hi> and <hi>de Sepuille,</hi> Com<g ref="char:EOLhyphen"/>manders of the <hi>Invincible,</hi> the <hi>Fier,</hi> and the <hi>Amable;</hi> the firſt ſtayed for <hi>Bankert,</hi> who durſt not come near him, and after having ſhown all the marks of Courage and Reſolution, was kil<g ref="char:EOLhyphen"/>led by a Great Shot during this diſpute; After which, the <hi>White</hi> Rallied, and purſued the E<g ref="char:EOLhyphen"/>nemy before the Wind, and with all their Sails, till half an hour paſt ſeven in the evening, when we found fifty of the Enemies Ships who had Rallied, and who durſt not bear upon the Princes Squadron, becauſe we had the Wind of them, expecting onely the Prince's Orders to do whatever his Highneſs ſhould think fit. The <hi>Comte d' Eſtrees</hi> thinking he ought to keep the advan<g ref="char:EOLhyphen"/>tage of the Wind, to renew the Fight the next day, it being then already too late to Engage afreſh, without expreſs Orders from his Highneſs.</p>
+            </div>
+            <div type="part">
+               <pb n="10" facs="tcp:53187:6"/>
+               <!-- PDF PAGE 69 -->
+               <head>The RELALION from the Blew SQ<g ref="char:V">Ʋ</g>ADRON.</head>
+               <p>ON <hi>Munday</hi> the Eleventh of <hi>Auguſt</hi> we Engaged the Enemy, the Wind at <hi>S. E.</hi> near the <hi>Texel,</hi> the <hi>Dutch</hi> having the Wea<g ref="char:EOLhyphen"/>ther-gage, both Fleets pointed into the Shore. About ſeven in the morning, Prince <hi>Rupert</hi> Tacked, being near Land, ſo gave the Wind as large as they could wiſh, to the <hi>Dutch;</hi> the <hi>Blew</hi> Squadron having the Rear, the <hi>Red</hi> the Middle, and the <hi>White</hi> the Van; <hi>Trump</hi> and his Diviſion taking the <hi>Blew, de Ruyter</hi> the <hi>Red,</hi> and <hi>Bankert</hi> the <hi>White</hi> Squadron; with us Sir <hi>John Kempthorn</hi> began the Battle, halfe an hour paſt ſeven in the morning, awhile after <hi>Tromp</hi> and Sir <hi>Edward Spragg</hi> Engaged; Sir <hi>Edward Spragg</hi> lay by for <hi>Tromp,</hi> and ſo did moſt of his Diviſion, and fought at this rate three hours; Prince <hi>Rupert</hi> and the <hi>White,</hi> as their Adverſaries being ſeparated from us, we heard not of them till four in the afternoon, when they came very opportunely to our aſ<g ref="char:EOLhyphen"/>ſiſtance; Sir <hi>Edward Spragg</hi> lay battering a<g ref="char:EOLhyphen"/>gainſt eight or nine of the <hi>Dutch</hi> a long time, and moſt of his Diviſion being ſo far Lee<g ref="char:EOLhyphen"/>ward they could not help him; for Sir <hi>John Kempthorn</hi> being preſt, it preſt us all out of our ſtation much to h<gap reason="illegible" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>e Lee; this was about twelve of the clock when we perceive Sir
+<pb n="11" facs="tcp:53187:6"/>
+                  <!-- PDF PAGE 69 -->
+                  <hi>Edward Spragg</hi> to put before the Wind, which made us conjecture him either dead or much damaged; I went aboard Sir <hi>Edward Spragg</hi> to ſee how affairs ſtood, and found his Ship extreamly diſabled, and as we ſet our Boat from his Ship, down fell his Main Maſt with<g ref="char:EOLhyphen"/>in a yard of our Boat; We ſaved ſome Men and came up to the Ships ſide again to take up Swimmers, when the Miſſen Maſt fell down near our Boat; after this, Sir <hi>Edward Spragg</hi> came on board the <hi>St. George,</hi> where he put up his Flag, and lay by the diſabled <hi>Royal Prince</hi> to defend her, where was a hot Fight; Sir <hi>John Kempthorn</hi> and his Diviſion Tacked upon the Enemy, who was very eager upon the <hi>Prince,</hi> either to take or burn her, but the <hi>Blew</hi> Squadron by this time came ſo about her, that the Enemy found it too hot for them, though they plyed her ſtill hard. More parti<g ref="char:EOLhyphen"/>culars I have not time to write, but that very unfortunately that day at two of the clock the <hi>St. George</hi> was ſo diſabled too, that Sir <hi>Edward Spragg</hi> took Boat to go on board the <hi>Royal Charles,</hi> and had not rowed ten Boats lengths, but a Bullet came through the <hi>S. George</hi> and broke his Boat; they made back again as faſt as they could on board, but before they came within throw of the Ropes, the Boat ſunk, and Sir <hi>Edward Spragg</hi> was drowned; being taken up dead, his Head and Shoulders above water, having taken ſo dead hold of the Boat, they could hardly diſingage him from it. Mr. <hi>Littleton,</hi> Mr. <hi>Smith</hi> and his Page were drowned with him; the <hi>S. Georges</hi> Boat
+<pb n="12" facs="tcp:53187:7"/>
+                  <!-- PDF PAGE 70 -->being next, took up his Body, and his Lieutenant half dead; for the preſerving of his Ship the <hi>Royal Prince,</hi> there continued ſtill a brisk Fight, and about four in the afternoon, his Highneſs bore in, and the <hi>Dutch,</hi> which favoured the getting off of that Ship, being towed by two or three others; The <hi>Dutch</hi> were ſtill unwil<g ref="char:EOLhyphen"/>ling to leave her, and ſo the Fight continued till near eight at night. We are preparing for another Bout, God continue to give us ſtill good ſucceſs. Excuſe this imperfect Narrative, being writ in a hurry.</p>
+            </div>
+         </div>
+         <div type="publishers_note">
+            <p>This is all at preſent from the ſeveral Squa<g ref="char:EOLhyphen"/>drons, and as ſoon as there is a more per<g ref="char:EOLhyphen"/>fect Relation, it ſhall be publiſhed.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
